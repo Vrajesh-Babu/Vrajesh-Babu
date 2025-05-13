@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Vrajesh Babu A V 👋
 
-<!--
-**Vrajesh-Babu/Vrajesh-Babu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI/LLM Engineer • Data & Cloud Enthusiast • Finance Copilot Builder
 
-Here are some ideas to get you started:
+I'm an engineer with a passion for building intelligent systems that make finance smarter and easier. Currently leading development of the **Finance Copilot** at **ProFinTech Technologies**, where I combine:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Large Language Models (LLMs)
+- 🕸️ Graph Databases (Neo4j, RedisGraph)
+- ☁️ Cloud-native tools (GCP, Kubernetes, Airflow)
+
+## 🔧 Tech Stack
+
+- **Languages**: Python, TypeScript, Cypher
+- **Cloud**: GCP, Azure
+- **AI/LLM**: OpenAI, Gemini, LangChain, Google ADK
+- **Data**: Neo4j, RedisGraph, Postgres
+- **DevOps**: Docker, Kubernetes, GitHub Actions
+- **Other Tools**: Airflow, FastAPI, Playwright
+
+
+## 🧰 Certifications
+
+- Google Cloud Professional Data Engineer  
+- Microsoft Certified: Azure Data Engineer (and more...)
+
+## 💬 Let's Connect
+
+- 📫 [LinkedIn](https://www.linkedin.com/in/vrajesh-babu-a-v/)
+- ☕ Always up for collaboration on Data + AI + finance!
+
+---
+
+_“Turning financial chaos into structured intelligence, one API at a time.”_
