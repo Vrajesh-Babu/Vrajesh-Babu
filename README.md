@@ -114,15 +114,16 @@ A comprehensive AI-powered financial intelligence system with 10+ microservices:
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vrajesh-Babu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vrajesh-Babu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrajesh-Babu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vrajesh-Babu&theme=tokyonight" alt="GitHub Profile Summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vrajesh-Babu&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vrajesh-Babu&theme=tokyonight" alt="Most Commit Language" />
 </div>
 
 ---
@@ -149,8 +150,10 @@ graph LR
 
 <div align="center">
 
-[![adk-python](https://github-readme-stats.vercel.app/api/pin/?username=Vrajesh-Babu&repo=adk-python&theme=tokyonight&hide_border=true)](https://github.com/Vrajesh-Babu/adk-python)
-[![Google-Cloud-Skills-Boost](https://github-readme-stats.vercel.app/api/pin/?username=Vrajesh-Babu&repo=Google-Cloud-Skills-Boost&theme=tokyonight&hide_border=true)](https://github.com/Vrajesh-Babu/Google-Cloud-Skills-Boost)
+| Repository | Description |
+|------------|-------------|
+| [**adk-python**](https://github.com/Vrajesh-Babu/adk-python) | Google's Agent Development Kit - Python toolkit for building AI agents |
+| [**Google-Cloud-Skills-Boost**](https://github.com/Vrajesh-Babu/Google-Cloud-Skills-Boost) | GCP learning notebooks and exercises |
 
 </div>
 
