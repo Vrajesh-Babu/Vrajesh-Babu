@@ -112,10 +112,6 @@ Over the past year, I've been deep in the trenches building **multi-agent AI sys
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vrajesh-Babu&theme=tokyonight" alt="GitHub Profile Summary" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vrajesh-Babu&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vrajesh-Babu&theme=tokyonight" alt="Most Commit Language" />
-</div>
 
 ---
 
