@@ -4,7 +4,7 @@
 
 # Vrajesh Babu A V
 
-### AI/LLM Engineer | Finance Copilot Architect | Cloud-Native Builder
+### AI/LLM Engineer | Platform Architect | Cloud-Native Builder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrajesh-babu-a-v/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vrajesh-Babu)
@@ -29,9 +29,9 @@
 
 ## About Me
 
-I'm an engineer obsessed with turning complex financial data into actionable intelligence. Currently leading the development of **Finance Copilot** at **ProFinTech Technologies** - an AI-powered platform that's reshaping how enterprises handle financial operations.
+I'm an engineer passionate about building intelligent systems that transform complex data into actionable insights. Currently working at **ProFinTech Technologies**, architecting AI-powered enterprise platforms.
 
-Over the past year, I've been deep in the trenches building multi-agent AI systems, knowledge graphs, and cloud-native microservices. My work sits at the intersection of **LLMs**, **Graph Databases**, and **Financial Data Engineering**.
+Over the past year, I've been deep in the trenches building **multi-agent AI systems**, **knowledge graphs**, and **cloud-native microservices**. My work sits at the intersection of **LLMs**, **Graph Databases**, and **Data Engineering**.
 
 <div align="center">
 
@@ -41,23 +41,14 @@ Over the past year, I've been deep in the trenches building multi-agent AI syste
 
 ---
 
-## What I've Been Building
+## What I Work On
 
-### Finance Copilot Platform
-
-A comprehensive AI-powered financial intelligence system with 10+ microservices:
-
-| Service | Tech Stack | What it Does |
-|---------|-----------|--------------|
-| **Agentic LLM** | Python, LangChain, Google ADK | Multi-agent orchestration for financial analysis |
-| **Knowledge Graph** | Neo4j, Cypher, Python | Entity relationships across financial ecosystems |
-| **Chat Engine** | Python, FastAPI, Jinja | Real-time conversational AI interface |
-| **API Gateway** | Python, FastAPI | Secure API layer with Firebase auth |
-| **Adapters** | Python, Cypher | ERP & data source integrations |
-| **Infrastructure** | Terraform, GKE, Docker | Cloud-native deployment on GCP |
-| **Data Pipelines** | Apache Airflow, Python | Automated ETL workflows |
-| **Template App** | TypeScript, React | White-label frontend solution |
-| **QA Framework** | JavaScript, Playwright | E2E testing automation |
+- **Multi-Agent AI Systems** - Orchestrating LLM-powered agents using LangChain & Google ADK
+- **Knowledge Graphs** - Building entity relationships with Neo4j & Cypher
+- **Cloud-Native Architecture** - Designing microservices on GCP with Kubernetes & Terraform
+- **Data Pipelines** - Automating ETL workflows with Apache Airflow
+- **Full-Stack Development** - APIs with FastAPI, frontends with React/TypeScript
+- **DevOps & QA** - CI/CD pipelines, E2E testing with Playwright
 
 ---
 
@@ -132,7 +123,7 @@ A comprehensive AI-powered financial intelligence system with 10+ microservices:
 
 ```mermaid
 graph LR
-    A[Multi-Agent Systems] --> B[Finance Automation]
+    A[Multi-Agent Systems] --> B[Enterprise Automation]
     B --> C[Knowledge Graphs]
     C --> D[Real-time Insights]
     D --> E[Enterprise Scale]
@@ -140,7 +131,7 @@ graph LR
 ```
 
 - Building sophisticated multi-agent AI architectures with Google ADK
-- Scaling graph-based financial data models with Neo4j
+- Scaling graph-based data models with Neo4j
 - Creating intelligent automation for accounts payable, receivable, and tax workflows
 - Designing cloud-native microservices on GKE
 
@@ -163,13 +154,13 @@ graph LR
 
 ### Let's Connect
 
-I'm always interested in discussing AI in finance, graph databases, or cloud architecture.
+I'm always interested in discussing AI agents, graph databases, or cloud architecture.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrajesh-babu-a-v/)
 
 ---
 
-*"Transforming financial chaos into structured intelligence through AI-powered graph systems"*
+*"Transforming complex data into structured intelligence through AI-powered graph systems"*
 
 <img src="https://komarev.com/ghpvc/?username=Vrajesh-Babu&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 
